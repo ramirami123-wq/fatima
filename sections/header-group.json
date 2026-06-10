@@ -45,7 +45,7 @@
         "enable_sticky_bar": false,
         "enable_carousel_on_desktop": true,
         "backgound_color": "#c59dc3",
-        "text_color": "#2b2b2b",
+        "text_color": "#ffffff",
         "textlink_color_light": "rgba(0,0,0,0)",
         "backgound_color_dark": "#f4f4f2",
         "text_color_dark": "#2b2b2b",
@@ -99,6 +99,21 @@
         "padding_bottom_mobile": 16
       }
     },
+    "custom_liquid_JepWea": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<br><br><br>",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "mobile-navigation": {
       "type": "mobile-navigation",
       "blocks": {
@@ -138,6 +153,7 @@
   "order": [
     "announcement-bar",
     "header",
+    "custom_liquid_JepWea",
     "mobile-navigation"
   ]
 }
