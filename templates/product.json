@@ -488,6 +488,21 @@
         "bottom_padding_mobile": 0
       }
     },
+    "custom_liquid_eW7CFe": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n.benefits-table {\n  width: 100%;\n  border-collapse: collapse;\n  margin: 20px 0;\n  border-radius: 12px;\n  overflow: hidden;\n  font-size: 15px;\n}\n\n.benefits-table th {\n  background: #c59dc3;\n  color: #fff;\n  padding: 14px;\n  text-align: center;\n  font-weight: 700;\n}\n\n.benefits-table td {\n  padding: 12px;\n  border-bottom: 1px solid #eee;\n  text-align: center;\n}\n\n.benefits-table tr:nth-child(even) {\n  background: #faf7fa;\n}\n\n.benefits-table td:first-child {\n  text-align: left;\n  font-weight: 600;\n}\n\n.yes {\n  color: #28a745;\n  font-weight: bold;\n}\n\n.no {\n  color: #dc3545;\n  font-weight: bold;\n}\n\n@media(max-width:768px){\n  .benefits-table{\n    font-size:14px;\n  }\n}\n</style>\n\n<table class=\"benefits-table\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our Brush Cleaner</th>\n      <th>Others</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Automatic Cleaning</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Fast Drying Function</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Works With Multiple Brush Sizes</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>USB Rechargeable</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Easy One-Touch Operation</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Saves Time & Effort</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Protects Brush Quality</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n  </tbody>\n</table>",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "faq_byLxM7": {
       "type": "faq",
       "blocks": {
@@ -567,6 +582,26 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
+      }
+    },
+    "1781104587a40147bd": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_3Bz4WM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_3Bz4WM"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "1774373014960824ac": {
@@ -662,7 +697,9 @@
     "image_with_text_pny4DB",
     "scrolling_banner_cXMWJF",
     "image_with_text_3DwQRt",
+    "custom_liquid_eW7CFe",
     "faq_byLxM7",
+    "1781104587a40147bd",
     "1774373014960824ac",
     "331e6fca-2947-4a19-89c5-9396be0d666a"
   ]
