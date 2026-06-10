@@ -509,41 +509,41 @@
         "frequently_asked_question_tdwyep": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How does it work?",
+            "row_content": "<p>Add water and cleanser, place your brush inside, and the device cleans and dries it automatically.</p><p></p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Can it fit different brush sizes?",
+            "row_content": "<p>Yes, it works with multiple brush sizes.</p><p></p>"
           }
         },
         "frequently_asked_question_p9THCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is it safe for makeup brushes?",
+            "row_content": "<p>Yes, it gently cleans without damaging the bristles.</p><p></p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How long does cleaning take?",
+            "row_content": "<p>Most brushes can be cleaned and dried in just a few minutes.</p><p></p>"
           }
         }
       },
