@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🧼 Clean Brushes in Minutes</span> – Remove makeup residue, dirt, and buildup quickly with automatic deep cleaning.<br><br>\n<span style=\"font-weight: bold;\">💨 Wash & Dry 3-in-1 Design</span> – Clean, rinse, and dry your makeup brushes easily using one compact device.<br><br>\n<span style=\"font-weight: bold;\">✨ Keep Your Beauty Routine Fresh</span> – Enjoy softer, cleaner brushes for smoother makeup application every time.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">💫 Salon-Quality Curls in Minutes</span> – Create smooth, defined curls easily with automatic rotating technology.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast Heating & Adjustable Temperature</span> – Heats quickly and lets you choose the right temperature for your hair type.<br><br>\n\n<span style=\"font-weight: bold;\">✨ Smooth, Frizz-Free Finish</span> – Ceramic-coated barrel helps reduce frizz and leaves your curls soft, shiny, and long-lasting.\n\n</div>"
           }
         },
         "quantity_selector": {
@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Dirty Brushes? Not Anymore.",
+            "text": "Effortless Curls. Professional Results.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -313,11 +313,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Effortless Brush Cleaning",
+            "heading": "Fast, Beautiful Curls",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Keeping your makeup brushes clean has never been easier. This automatic brush cleaner removes stubborn makeup residue, dirt, and oils in minutes, helping you maintain a cleaner beauty routine while saving time and effort.</p><h3></h3>",
+            "text": "<p>Create salon-worthy curls in just minutes with the automatic rotating barrel. Whether you're getting ready for work, a special event, or a night out, achieving smooth, bouncy curls has never been easier.</p><h3></h3>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -335,7 +335,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1780580249_phpnkoufr87dr3j2KSqlvd.jpg",
+        "image": "shopify://shop_images/1780576337_phpq91ou9f2j7vq4QNFcvR.png",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -382,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Cleaner Brushes, Better Beauty.",
+            "text": "Beautiful Curls, Every Day.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -425,11 +425,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Healthier Brushes, Flawless Makeup",
+            "heading": "Designed for Every Hair Type",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Clean brushes mean smoother makeup application and a fresher feel every day. By regularly washing and drying your brushes, you can reduce buildup and enjoy soft, ready-to-use brushes whenever you need them.<br/><br/></p>",
+            "text": "<p><br/>Featuring adjustable temperature settings and a ceramic-coated barrel, this curling iron helps reduce frizz while protecting your hair from excessive heat. Enjoy long-lasting curls with a silky, shiny finish every time.<br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -492,7 +492,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n.benefits-table {\n  width: 100%;\n  border-collapse: collapse;\n  margin: 20px 0;\n  border-radius: 12px;\n  overflow: hidden;\n  font-size: 15px;\n}\n\n.benefits-table th {\n  background: #c59dc3;\n  color: #fff;\n  padding: 14px;\n  text-align: center;\n  font-weight: 700;\n}\n\n.benefits-table td {\n  padding: 12px;\n  border-bottom: 1px solid #eee;\n  text-align: center;\n}\n\n.benefits-table tr:nth-child(even) {\n  background: #faf7fa;\n}\n\n.benefits-table td:first-child {\n  text-align: left;\n  font-weight: 600;\n}\n\n.yes {\n  color: #28a745;\n  font-weight: bold;\n}\n\n.no {\n  color: #dc3545;\n  font-weight: bold;\n}\n\n@media(max-width:768px){\n  .benefits-table{\n    font-size:14px;\n  }\n}\n</style>\n\n<table class=\"benefits-table\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our Brush Cleaner</th>\n      <th>Others</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Automatic Cleaning</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Fast Drying Function</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Works With Multiple Brush Sizes</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>USB Rechargeable</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Easy One-Touch Operation</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Saves Time & Effort</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Protects Brush Quality</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n  </tbody>\n</table>",
+        "custom_liquid": "<style>\n.benefits-table {\n  width: 100%;\n  border-collapse: collapse;\n  margin: 20px 0;\n  border-radius: 12px;\n  overflow: hidden;\n  font-size: 15px;\n}\n\n.benefits-table th {\n  background: #c59dc3;\n  color: #fff;\n  padding: 14px;\n  text-align: center;\n  font-weight: 700;\n}\n\n.benefits-table td {\n  padding: 12px;\n  border-bottom: 1px solid #eee;\n  text-align: center;\n}\n\n.benefits-table tr:nth-child(even) {\n  background: #faf7fa;\n}\n\n.benefits-table td:first-child {\n  text-align: left;\n  font-weight: 600;\n}\n\n.yes {\n  color: #28a745;\n  font-weight: bold;\n}\n\n.no {\n  color: #dc3545;\n  font-weight: bold;\n}\n\n@media(max-width:768px){\n  .benefits-table{\n    font-size:14px;\n  }\n}\n</style>\n\n<table class=\"benefits-table\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our Curling Iron</th>\n      <th>Others</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Automatic Rotating Barrel</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Fast Heating Technology</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Adjustable Temperature</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Left & Right Rotation</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Ceramic-Coated Barrel</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Reduces Frizz</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n    <tr>\n      <td>Easy to Use at Home</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✕ No</td>\n    </tr>\n  </tbody>\n</table>",
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 28,
@@ -512,8 +512,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How does it work?",
-            "row_content": "<p>Add water and cleanser, place your brush inside, and the device cleans and dries it automatically.</p><p></p>"
+            "heading": "Is this curling iron suitable for all hair types?",
+            "row_content": "<p>Yes! The adjustable temperature settings make it suitable for fine, normal, thick, and wavy hair.</p><p></p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -522,8 +522,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Can it fit different brush sizes?",
-            "row_content": "<p>Yes, it works with multiple brush sizes.</p><p></p>"
+            "heading": "How long does it take to heat up?",
+            "row_content": "<p>The curling iron heats up in approximately <strong>30–60 seconds</strong>, so you can start styling quickly.</p><p></p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -532,8 +532,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe for makeup brushes?",
-            "row_content": "<p>Yes, it gently cleans without damaging the bristles.</p><p></p>"
+            "heading": "Will it damage my hair?",
+            "row_content": "<p>The ceramic-coated barrel distributes heat evenly to help reduce frizz and minimize heat damage when used correctly.</p><p></p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -542,8 +542,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does cleaning take?",
-            "row_content": "<p>Most brushes can be cleaned and dried in just a few minutes.</p><p></p>"
+            "heading": "How long do the curls last?",
+            "row_content": "<p><br/>Curl longevity depends on your hair type, but with proper styling products, curls can last throughout the day<br/><br/></p><p></p>"
           }
         }
       },
