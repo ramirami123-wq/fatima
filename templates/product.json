@@ -457,7 +457,7 @@
         "mobile_height": "400px",
         "desktop_image_width": "medium",
         "image_layout": "normal",
-        "image_corner_radius": 0,
+        "image_corner_radius": 5,
         "content_layout": "overlap",
         "spacing_image": false,
         "text_position": "center",
