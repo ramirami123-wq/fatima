@@ -466,7 +466,7 @@
         "line_border": "dashed",
         "icon_position": "col",
         "icon_size": 45,
-        "alignment": "center",
+        "alignment": "right",
         "columns_desktop": 4,
         "columns_mobile": "2",
         "heading_color_light": "rgba(0,0,0,0)",
@@ -483,7 +483,7 @@
         "top_padding": 0,
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
-        "full_width_mobile": true,
+        "full_width_mobile": false,
         "top_padding_mobile": 0,
         "bottom_padding_mobile": 0
       }
