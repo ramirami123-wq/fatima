@@ -454,7 +454,7 @@
         "video_alt_text": "",
         "enable_video_autoplay": false,
         "desktop_height": "550px",
-        "mobile_height": "100vh",
+        "mobile_height": "natural",
         "desktop_image_width": "medium",
         "image_layout": "normal",
         "image_corner_radius": 5,
