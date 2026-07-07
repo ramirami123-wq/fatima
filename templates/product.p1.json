@@ -335,7 +335,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1780576337_phpq91ou9f2j7vq4QNFcvR.png",
+        "image": "shopify://shop_images/WhatsAppImage2026-07-07at2.36.25AM.jpg",
+        "image_second": "shopify://shop_images/WhatsAppImage2026-07-07at2.36.26AM.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
