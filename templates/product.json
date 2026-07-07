@@ -346,7 +346,7 @@
         "desktop_image_width": "large",
         "image_layout": "normal",
         "image_corner_radius": 0,
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "spacing_image": false,
         "text_position": "center",
         "text_alignment": "start",
