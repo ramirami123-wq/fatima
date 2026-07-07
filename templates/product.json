@@ -354,7 +354,7 @@
         "background_color_dark": "rgba(0,0,0,0)",
         "line_border": "dashed",
         "icon_position": "col",
-        "icon_size": 45,
+        "icon_size": 100,
         "alignment": "center",
         "columns_desktop": 4,
         "columns_mobile": "2",
