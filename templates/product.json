@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Dirty Brushes? Not Anymore.",
+            "text": "Puffy Face? Not Anymore",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -313,11 +313,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Effortless Brush Cleaning",
+            "heading": "Instant Facial Refresh ✨",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Keeping your makeup brushes clean has never been easier. This automatic brush cleaner removes stubborn makeup residue, dirt, and oils in minutes, helping you maintain a cleaner beauty routine while saving time and effort.</p><h3></h3>",
+            "text": "<p>Give your skin a refreshing cold boost in seconds. Simply add water and ice, dip your face, and enjoy a cool, soothing experience that helps reduce the appearance of puffiness and leaves your skin feeling fresh and awake. 🧊✨</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -335,7 +335,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/makkkkkk.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-08-25_at_8.03.47_PM.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -382,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Cleaner Brushes, Better Beauty.",
+            "text": "De-Puff in Seconds",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -425,11 +425,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Healthier Brushes, Flawless Makeup",
+            "heading": "Your Daily 30-Second Facial Spa at Home",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Clean brushes mean smoother makeup application and a fresher feel every day. By regularly washing and drying your brushes, you can reduce buildup and enjoy soft, ready-to-use brushes whenever you need them.<br/><br/></p>",
+            "text": "<p>Cold therapy means tighter pores, less puffiness, and instant glow every morning. By using ice water on your face for just 30 seconds, you boost circulation, calm inflammation, and wake up your skin. The perfect start to your skincare routine.<br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,7 +447,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/makeup.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-08-27_at_1.23.12_AM.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
