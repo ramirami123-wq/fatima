@@ -79,7 +79,7 @@
         "enable_on_collection_page": true,
         "shadow": 39,
         "text_color_light": "#ffffff",
-        "textlink_color_light": "#00000000",
+        "textlink_color_light": "rgba(0,0,0,0)",
         "text_color_dark": "#ffffff",
         "textlink_color_dark": "rgba(0,0,0,0)",
         "shadow_color": "#000000",
