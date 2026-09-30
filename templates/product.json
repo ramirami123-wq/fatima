@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<ul>\n  <li>🧊 Instant Cooling Refresh — Cool down your face and enjoy a fresh, revitalized feeling in seconds.</li>\n\n✨ Say Goodbye to a Tired Look  Helps reduce the appearance of puffiness for a more refreshed look.\n\n  <li>💗 Your At Home Beauty Ritual — Simple, refreshing, and perfect for adding a refreshing step to your daily routine.</li>\n</ul>"
+            "custom_html": "<ul style=\"list-style: none; padding-left: 0; line-height: 1.8;\">\n  <li>✨ <strong>Flawless Brows in Seconds</strong> — Shape and groom your eyebrows effortlessly for a clean, polished look.</li>\n\n  <li>💗 <strong>Gentle & Painless Grooming</strong> — Remove unwanted facial hair comfortably without pulling or irritating sensitive skin.</li>\n\n  <li>🎯 <strong>Precise 2-in-1 Design</strong> — Dual trimming heads make it easy to shape eyebrows, remove upper-lip hair, and touch up delicate areas.</li>\n\n  <li>👜 <strong>Beauty On the Go</strong> — Compact, lightweight, and travel-friendly for quick touch-ups anytime, anywhere.</li>\n\n  <li>🌸 <strong>Your Everyday Beauty Essential</strong> — Enjoy effortless grooming and maintain a smooth, well-groomed look with ease.</li>\n</ul>"
           }
         },
         "quantity_selector": {
