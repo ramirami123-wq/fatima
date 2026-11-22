@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<ul style=\"list-style: none; padding-left: 0; line-height: 1.8;\">\n  <li>✨ <strong>Flawless Brows in Seconds</strong> — Shape and groom your eyebrows effortlessly for a clean, polished look.</li>\n\n  <li>💗 <strong>Gentle & Painless Grooming</strong> — Remove unwanted facial hair comfortably without pulling or irritating sensitive skin.</li>\n\n  <li>🎯 <strong>Precise 2-in-1 Design</strong> — Dual trimming heads make it easy to shape eyebrows, remove upper-lip hair, and touch up delicate areas.</li>\n\n  <li>👜 <strong>Beauty On the Go</strong> — Compact, lightweight, and travel-friendly for quick touch-ups anytime, anywhere.</li>\n\n  <li>🌸 <strong>Your Everyday Beauty Essential</strong> — Enjoy effortless grooming and maintain a smooth, well-groomed look with ease.</li>\n</ul>"
+            "custom_html": "<ul style=\"list-style: none; padding-left: 0; line-height: 1.8;\">\n  <li>✨ <strong>Smooth & Shiny Hair</strong> — Brush away tangles while leaving your hair looking softer, smoother, and more radiant.</li>\n\n  <li>💧 <strong>Built-In Mist Hydration</strong> — Refresh your hair with a fine mist that helps keep it hydrated, manageable, and fresh.</li>\n\n  <li>🎯 <strong>2-in-1 Brush & Mist Design</strong> — Comb and refresh your hair at the same time for effortless daily styling.</li>\n\n  <li>👜 <strong>Perfect for On-the-Go</strong> — Lightweight and portable, ideal for quick touch-ups at home, work, or while traveling.</li>\n\n  <li>🌸 <strong>Effortless Everyday Styling</strong> — Tame frizz, detangle knots, and refresh your hairstyle in seconds for a beautiful look anytime.</li>\n</ul>"
           }
         },
         "quantity_selector": {
@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Puffy Face? Not Anymore",
+            "text": "💖 Smooth Hair, Less Frizz, More Shine – Your Perfect Hair Refresh Starts Here!",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -313,11 +313,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "✨ Your Beauty in Seconds!",
+            "heading": "✨ Smooth, Hydrated & Beautiful Hair Every Day 💧",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>&nbsp;Perfect Brows, Effortless Beauty! 💖 Shape, groom, and glow with our 2-in-1 Eyebrow Trimmer for a flawless look anytime, anywhere!<br/><br/></p>",
+            "text": "<p><br/>Refresh, detangle, and hydrate your hair in seconds! 💧 The 2-in-1 Hair Mist Brush helps tame frizz, smooth knots, and leave your hair soft, shiny, and manageable anytime. ✨<br/><br/><br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -382,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "De-Puff in Seconds",
+            "text": "✨ LIMITED TIME OFFER – GET YOUR 2-IN-1 HAIR MIST BRUSH TODAY! 💧",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -425,11 +425,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "✨Hello to Perfectly Shaped Brows!",
+            "heading": "💖 Your Hair’s Daily Refresh & Glow  ✨",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>&nbsp;💖 Enjoy effortless, painless grooming and smooth, flawless-looking skin with your 2-in-1 beauty essential, your ultimate beauty essential for confidence that shines every day!<br/><br/><br/><br/><br/><br/></p>",
+            "text": "<p><br/><br/>Keep your hair smooth, fresh, and tangle-free with every brush. Enjoy effortless styling and a refreshing mist wherever you go! 💧✨<br/><br/><br/><br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -492,7 +492,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n  .brow-comparison {\n    width: 100%;\n    max-width: 900px;\n    margin: 25px auto;\n    border-collapse: separate;\n    border-spacing: 0;\n    overflow: hidden;\n    border-radius: 12px;\n    font-family: inherit;\n    font-size: 15px;\n    box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  }\n\n  .brow-comparison th {\n    background: #C59DC3;\n    color: #FFF;\n    padding: 14px 12px;\n    text-align: center;\n    font-weight: 700;\n  }\n\n  .brow-comparison th:first-child {\n    text-align: left;\n  }\n\n  .brow-comparison td {\n    padding: 13px 12px;\n    border-bottom: 1px solid #eee;\n    background: #fff;\n    color: #333;\n  }\n\n  .brow-comparison tr:last-child td {\n    border-bottom: none;\n  }\n\n  .brow-comparison td:first-child {\n    font-weight: 600;\n    text-align: left;\n  }\n\n  .brow-comparison td:not(:first-child) {\n    text-align: center;\n  }\n\n  .brow-comparison .yes {\n    color: #20a464;\n    font-weight: 700;\n  }\n\n  .brow-comparison .no {\n    color: #d9534f;\n    font-weight: 700;\n  }\n\n  .brow-comparison .sometimes {\n    color: #d99a00;\n    font-weight: 700;\n  }\n\n  @media (max-width: 600px) {\n    .brow-comparison {\n      font-size: 12px;\n    }\n\n    .brow-comparison th,\n    .brow-comparison td {\n      padding: 10px 7px;\n    }\n  }\n</style>\n\n<table class=\"brow-comparison\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our 2-in-1 Trimmer</th>\n      <th>Traditional Methods</th>\n    </tr>\n  </thead>\n\n  <tbody>\n    <tr>\n      <td>2-in-1 Dual Head Design</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Painless Hair Removal</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Precise Brow Shaping</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Gentle on Sensitive Skin</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Quick &amp; Easy Touch-Ups</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Compact &amp; Travel-Friendly</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Suitable for Multiple Facial Areas</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>No Waxing or Pulling Required</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n  </tbody>\n</table>",
+        "custom_liquid": "<style>\n  .mist-comparison {\n    width: 100%;\n    max-width: 900px;\n    margin: 25px auto;\n    border-collapse: separate;\n    border-spacing: 0;\n    overflow: hidden;\n    border-radius: 12px;\n    font-family: inherit;\n    font-size: 15px;\n    box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  }\n\n  .mist-comparison th {\n    background: #C59DC3;\n    color: #FFF;\n    padding: 14px 12px;\n    text-align: center;\n    font-weight: 700;\n  }\n\n  .mist-comparison th:first-child {\n    text-align: left;\n  }\n\n  .mist-comparison td {\n    padding: 13px 12px;\n    border-bottom: 1px solid #eee;\n    background: #fff;\n    color: #333;\n  }\n\n  .mist-comparison tr:last-child td {\n    border-bottom: none;\n  }\n\n  .mist-comparison td:first-child {\n    font-weight: 600;\n    text-align: left;\n  }\n\n  .mist-comparison td:not(:first-child) {\n    text-align: center;\n  }\n\n  .mist-comparison .yes {\n    color: #20a464;\n    font-weight: 700;\n  }\n\n  .mist-comparison .no {\n    color: #d9534f;\n    font-weight: 700;\n  }\n\n  .mist-comparison .sometimes {\n    color: #d99a00;\n    font-weight: 700;\n  }\n\n  @media (max-width: 600px) {\n    .mist-comparison {\n      font-size: 12px;\n    }\n\n    .mist-comparison th,\n    .mist-comparison td {\n      padding: 10px 7px;\n    }\n  }\n</style>\n\n<table class=\"mist-comparison\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our 2-in-1 Hair Mist Brush</th>\n      <th>Traditional Brushes</th>\n    </tr>\n  </thead>\n\n  <tbody>\n    <tr>\n      <td>Built-In Mist Function</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Brush & Mist in One</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Helps Detangle Hair</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"yes\">✓ Yes</td>\n    </tr>\n\n    <tr>\n      <td>Refreshes Hair with Mist</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Helps Tame Frizz</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Easy Everyday Styling</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Portable & Travel-Friendly</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Quick Hair Refresh</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n  </tbody>\n</table>",
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 28,
