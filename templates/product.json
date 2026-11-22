@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<ul style=\"list-style: none; padding-left: 0; line-height: 1.8;\">\n  <li>✨ <strong>Soothing Pain Relief</strong> — Helps soothe discomfort and provides a relaxing feeling when you need it most.</li>\n\n  <li>💗 <strong>Comfort & Relaxation</strong> — Enjoy a gentle, comforting experience designed to help you relax and feel better.</li>\n\n  <li>🎀 <strong>Easy & Convenient to Use</strong> — Simple to use at home, making pain relief and relaxation part of your daily routine.</li>\n\n  <li>👜 <strong>Portable & Lightweight</strong> — Take it with you wherever you go and enjoy comfort whenever you need it.</li>\n\n  <li>🌸 <strong>Your Everyday Comfort Essential</strong> — A convenient way to relax, soothe discomfort, and enjoy moments of comfort throughout your day.</li>\n</ul>"
+            "custom_html": "<ul style=\"list-style: none; padding-left: 0; line-height: 1.8;\">\n  <li>✨ <strong>Smooth & Sleek Hair</strong> — Enjoy beautifully straight, smooth hair with quick and easy touch-ups anytime.</li>\n\n  <li>💗 <strong>Quick & Easy Styling</strong> — Style your hair effortlessly and get ready in minutes, wherever you are.</li>\n\n  <li>🎀 <strong>Compact & Portable Design</strong> — Its mini size makes it easy to carry in your handbag, perfect for travel and everyday use.</li>\n\n  <li>👜 <strong>Perfect for On-the-Go Touch-Ups</strong> — Keep your hair looking fresh and neat at work, school, or while traveling.</li>\n\n  <li>🌸 <strong>Your Everyday Hair Essential</strong> — Enjoy convenient styling whenever you need it and say goodbye to bad hair days!</li>\n</ul>"
           }
         },
         "quantity_selector": {
@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "🎀 SOFT, QUICK & EFFORTLESS HAIR DRYING! 💗 Wrap Your Hair in Comfort After Every Shower! ✨",
+            "text": "🔥 Bad Hair Days? Not Anymore! 💖 Enjoy Smooth, Straight Hair Anytime, Anywhere! Shop Now & Get Yours Today! 🛍️",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -313,11 +313,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Relief, Relaxation & Comfort Anytime 💗",
+            "heading": "💖 Your Hair, Your Style, On The Go!",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Enjoy soothing comfort whenever you need it. Our Pain Relief Pad is designed to help ease discomfort, relax tense areas, and bring a comforting feeling to your daily routine.✨<br/><br/></p>",
+            "text": "<p>No more bad hair days! Get salon-inspired styling in a compact, travel-friendly design. Stay confident and look fabulous wherever life takes you! 🌸</p><p></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -335,7 +335,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/9bf51546-c1f6-40be-b808-018ae86a70be.jpg",
+        "image": "shopify://shop_images/3daf6735-7e9a-dd58-7ee6-c44e0269114d_6e43fa26-0ba5-40a0-b083-df2e294bc5a8.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -382,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "🛁 LESS DRYING TIME, MORE SELF-CARE! 💕 Enjoy the Perfect Hair Care Essential Every Day! 🌸",
+            "text": "✨ Sleek Hair Anywhere! Get Your Mini Portable Hair Straightener Today & Enjoy Perfect Hair On The Go! 💕",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -425,11 +425,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Your Daily Comfort, Just One Touch Away ✨",
+            "heading": "✨ Perfect Hair Anywhere!",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Make relaxation easier with a simple, convenient solution. Whether you're resting at home or unwinding after a long day, enjoy comfort and relaxation whenever you need it most.<strong> 💗</strong><br/><br/><br/><br/><br/><br/><br/><br/><br/></p>",
+            "text": "<p>Enjoy smooth, sleek, and beautiful hair wherever you go! Our Mini Portable Hair Straightener makes quick touch-ups easy, anytime and anywhere.<br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,7 +447,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ae303603-899c-405c-8ba0-306d4a8f6f82.jpg",
+        "image": "shopify://shop_images/3258ec2e-323e-fd41-e023-98fd22141030_80a5c15a-917a-45fa-aba2-8e6a42c566b2.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -492,7 +492,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n  .pain-comparison {\n    width: 100%;\n    max-width: 900px;\n    margin: 25px auto;\n    border-collapse: separate;\n    border-spacing: 0;\n    overflow: hidden;\n    border-radius: 12px;\n    font-family: inherit;\n    font-size: 15px;\n    box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  }\n\n  .pain-comparison th {\n    background: #C59DC3;\n    color: #FFF;\n    padding: 14px 12px;\n    text-align: center;\n    font-weight: 700;\n  }\n\n  .pain-comparison th:first-child {\n    text-align: left;\n  }\n\n  .pain-comparison td {\n    padding: 13px 12px;\n    border-bottom: 1px solid #eee;\n    background: #fff;\n    color: #333;\n  }\n\n  .pain-comparison tr:last-child td {\n    border-bottom: none;\n  }\n\n  .pain-comparison td:first-child {\n    font-weight: 600;\n    text-align: left;\n  }\n\n  .pain-comparison td:not(:first-child) {\n    text-align: center;\n  }\n\n  .pain-comparison .yes {\n    color: #20a464;\n    font-weight: 700;\n  }\n\n  .pain-comparison .no {\n    color: #d9534f;\n    font-weight: 700;\n  }\n\n  .pain-comparison .sometimes {\n    color: #d99a00;\n    font-weight: 700;\n  }\n\n  @media (max-width: 600px) {\n    .pain-comparison {\n      font-size: 12px;\n    }\n\n    .pain-comparison th,\n    .pain-comparison td {\n      padding: 10px 7px;\n    }\n  }\n</style>\n\n<table class=\"pain-comparison\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our Pain Relief Pad</th>\n      <th>Traditional Solutions</th>\n    </tr>\n  </thead>\n\n  <tbody>\n    <tr>\n      <td>Soothing Comfort</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Easy & Convenient to Use</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Targeted Relief</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Comfortable at Home</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"yes\">✓ Yes</td>\n    </tr>\n\n    <tr>\n      <td>Portable & Lightweight</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Relaxation & Stress Relief</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Simple Daily Routine</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Reusable & Convenient</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n  </tbody>\n</table>",
+        "custom_liquid": "<style>\n  .hair-comparison {\n    width: 100%;\n    max-width: 900px;\n    margin: 25px auto;\n    border-collapse: separate;\n    border-spacing: 0;\n    overflow: hidden;\n    border-radius: 12px;\n    font-family: inherit;\n    font-size: 15px;\n    box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  }\n\n  .hair-comparison th {\n    background: #C59DC3;\n    color: #FFF;\n    padding: 14px 12px;\n    text-align: center;\n    font-weight: 700;\n  }\n\n  .hair-comparison th:first-child {\n    text-align: left;\n  }\n\n  .hair-comparison td {\n    padding: 13px 12px;\n    border-bottom: 1px solid #eee;\n    background: #fff;\n    color: #333;\n  }\n\n  .hair-comparison tr:last-child td {\n    border-bottom: none;\n  }\n\n  .hair-comparison td:first-child {\n    font-weight: 600;\n    text-align: left;\n  }\n\n  .hair-comparison td:not(:first-child) {\n    text-align: center;\n  }\n\n  .hair-comparison .yes {\n    color: #20a464;\n    font-weight: 700;\n  }\n\n  .hair-comparison .no {\n    color: #d9534f;\n    font-weight: 700;\n  }\n\n  .hair-comparison .sometimes {\n    color: #d99a00;\n    font-weight: 700;\n  }\n\n  @media (max-width: 600px) {\n    .hair-comparison {\n      font-size: 12px;\n    }\n\n    .hair-comparison th,\n    .hair-comparison td {\n      padding: 10px 7px;\n    }\n  }\n</style>\n\n<table class=\"hair-comparison\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our Mini Hair Straightener</th>\n      <th>Traditional Straighteners</th>\n    </tr>\n  </thead>\n\n  <tbody>\n    <tr>\n      <td>Compact & Portable</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Easy to Carry Anywhere</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Quick Hair Touch-Ups</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Travel-Friendly Design</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Easy to Use</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Space-Saving Design</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Everyday Styling</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"yes\">✓ Yes</td>\n    </tr>\n\n    <tr>\n      <td>Perfect for On-the-Go</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n  </tbody>\n</table>",
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 28,
