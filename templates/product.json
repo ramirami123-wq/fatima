@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<ul style=\"list-style: none; padding-left: 0; line-height: 1.8;\">\n  <li>✨ <strong>Cozy Warmth & Comfort</strong> — Enjoy soothing warmth and a cozy feeling on chilly days, helping you relax and stay comfortable.</li>\n\n  <li>💗 <strong>Soft & Snuggly Material</strong> — Wrap yourself in soft, comfortable fabric designed for warmth and relaxation.</li>\n\n  <li>🎀 <strong>Adjustable Heat Settings</strong> — Choose your preferred warmth level for a more personalized and comfortable experience.</li>\n\n  <li>👜 <strong>Perfect for Relaxing Anywhere</strong> — Stay cozy while lounging on the sofa, working, reading, or relaxing at home.</li>\n\n  <li>🌸 <strong>Your Cozy Everyday Essential</strong> — Enjoy warmth, comfort, and relaxation whenever you need a little extra coziness!</li>\n</ul>"
+            "custom_html": "<ul style=\"list-style: none; padding-left: 0; line-height: 1.8;\">\n  <li>✨ <strong>Smooth & Soft Feet</strong> — Gently removes dead skin and rough areas, leaving your feet feeling smoother and softer.</li>\n\n  <li>💗 <strong>Effortless Foot Care</strong> — Enjoy an easy and comfortable way to exfoliate dry, rough skin without the hassle of manual scrubbing.</li>\n\n  <li>🎀 <strong>Rechargeable & Cordless Design</strong> — Conveniently recharge your foot grinder and enjoy cordless use whenever you need a quick foot-care session.</li>\n\n  <li>🦶 <strong>Digital Display & Easy Control</strong> — Monitor the battery level and enjoy simple, convenient operation for your daily foot-care routine.</li>\n\n  <li>🌸 <strong>Your At-Home Pedicure Essential</strong> — Keep your feet looking fresh, smooth, and well-groomed without expensive salon visits!</li>\n</ul>"
           }
         },
         "quantity_selector": {
@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "❄️ Stay Cozy & Warm All Day — Enjoy Ultimate Comfort! 🔥",
+            "text": "✨ Smooth Feet, Soft Skin — Your At-Home Pedicure Starts Here!",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -313,11 +313,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "🔥 Your Cozy Warmth Starts Here!",
+            "heading": "✨ Instantly Smooth Feet",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Stay warm, cozy, and comfortable all day! Wrap yourself in soothing warmth and enjoy the ultimate relaxation with Heated Snuggs. 💗<br/><br/></p>",
+            "text": "<p><br/>Remove rough, dry skin and enjoy softer, smoother feet with effortless exfoliation.<br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -335,7 +335,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/19d7836c-7791-8c56-e2d2-c60c64fbf606.jpg",
+        "image": "shopify://shop_images/71b059ed-c9ba-9371-f8b0-2870e7041cf8.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -382,7 +382,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "🧸 Your New Favorite Cozy Essential — Shop Now! 💖",
+            "text": "💗 Say Goodbye to Rough Feet — Enjoy Effortless Exfoliation & Beautifully Smooth Heels!",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -425,11 +425,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "💕 Cold Days, Cozy Nights!",
+            "heading": "💗 Salon-Style Care at Home .",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Say goodbye to chilly days! Enjoy soft comfort and soothing warmth while relaxing, reading, or lounging at home. ✨<br/><br/><br/></p>",
+            "text": "<p>Enjoy an easy, rechargeable foot-care routine for beautifully groomed feet anytime!<br/><br/><br/><br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,7 +447,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/bc833642-8be9-6ba6-a1b5-a67ccf23eb43.jpg",
+        "image": "shopify://shop_images/d438788e-4784-ee07-5e62-dfc3717618b6.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -492,7 +492,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n  .snuggs-comparison {\n    width: 100%;\n    max-width: 900px;\n    margin: 25px auto;\n    border-collapse: separate;\n    border-spacing: 0;\n    overflow: hidden;\n    border-radius: 12px;\n    font-family: inherit;\n    font-size: 15px;\n    box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  }\n\n  .snuggs-comparison th {\n    background: #C59DC3;\n    color: #FFF;\n    padding: 14px 12px;\n    text-align: center;\n    font-weight: 700;\n  }\n\n  .snuggs-comparison th:first-child {\n    text-align: left;\n  }\n\n  .snuggs-comparison td {\n    padding: 13px 12px;\n    border-bottom: 1px solid #eee;\n    background: #fff;\n    color: #333;\n  }\n\n  .snuggs-comparison tr:last-child td {\n    border-bottom: none;\n  }\n\n  .snuggs-comparison td:first-child {\n    font-weight: 600;\n    text-align: left;\n  }\n\n  .snuggs-comparison td:not(:first-child) {\n    text-align: center;\n  }\n\n  .snuggs-comparison .yes {\n    color: #20a464;\n    font-weight: 700;\n  }\n\n  .snuggs-comparison .no {\n    color: #d9534f;\n    font-weight: 700;\n  }\n\n  .snuggs-comparison .sometimes {\n    color: #d99a00;\n    font-weight: 700;\n  }\n\n  @media (max-width: 600px) {\n    .snuggs-comparison {\n      font-size: 12px;\n    }\n\n    .snuggs-comparison th,\n    .snuggs-comparison td {\n      padding: 10px 7px;\n    }\n  }\n</style>\n\n<table class=\"snuggs-comparison\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our Heated Snuggs</th>\n      <th>Traditional Blankets</th>\n    </tr>\n  </thead>\n\n  <tbody>\n    <tr>\n      <td>Soothing Warmth</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Adjustable Heat Settings</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Soft & Cozy Comfort</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Personalized Warmth</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Perfect for Cold Days</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"yes\">✓ Yes</td>\n    </tr>\n\n    <tr>\n      <td>Relaxation & Comfort</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Convenient for Lounging</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Cozy Everyday Essential</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n  </tbody>\n</table>",
+        "custom_liquid": "<style>\n  .snuggs-comparison {\n    width: 100%;\n    max-width: 900px;\n    margin: 25px auto;\n    border-collapse: separate;\n    border-spacing: 0;\n    overflow: hidden;\n    border-radius: 12px;\n    font-family: inherit;\n    font-size: 15px;\n    box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  }\n\n  .snuggs-comparison th {\n    background: #C59DC3;\n    color: #FFF;\n    padding: 14px 12px;\n    text-align: center;\n    font-weight: 700;\n  }\n\n  .snuggs-comparison th:first-child {\n    text-align: left;\n  }\n\n  .snuggs-comparison td {\n    padding: 13px 12px;\n    border-bottom: 1px solid #eee;\n    background: #fff;\n    color: #333;\n  }\n\n  .snuggs-comparison tr:last-child td {\n    border-bottom: none;\n  }\n\n  .snuggs-comparison td:first-child {\n    font-weight: 600;\n    text-align: left;\n  }\n\n  .snuggs-comparison td:not(:first-child) {\n    text-align: center;\n  }\n\n  .snuggs-comparison .yes {\n    color: #20a464;\n    font-weight: 700;\n  }\n\n  .snuggs-comparison .no {\n    color: #d9534f;\n    font-weight: 700;\n  }\n\n  .snuggs-comparison .sometimes {\n    color: #d99a00;\n    font-weight: 700;\n  }\n\n  @media (max-width: 600px) {\n    .snuggs-comparison {\n      font-size: 12px;\n    }\n\n    .snuggs-comparison th,\n    .snuggs-comparison td {\n      padding: 10px 7px;\n    }\n  }\n</style>\n\n<table class=\"snuggs-comparison\">\n  <thead>\n    <tr>\n      <th>Features</th>\n      <th>Our Foot Grinder</th>\n      <th>Traditional Foot Files</th>\n    </tr>\n  </thead>\n\n  <tbody>\n    <tr>\n      <td>Removes Dead Skin</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Smooth & Soft Feet</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Rechargeable Design</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Effortless Exfoliation</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Digital Display</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n\n    <tr>\n      <td>Easy & Convenient Use</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>At-Home Pedicure</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"sometimes\">✓ Sometimes</td>\n    </tr>\n\n    <tr>\n      <td>Saves Time & Effort</td>\n      <td class=\"yes\">✓ Yes</td>\n      <td class=\"no\">✗ No</td>\n    </tr>\n  </tbody>\n</table>",
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 28,
